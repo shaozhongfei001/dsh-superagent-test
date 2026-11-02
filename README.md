@@ -11,3 +11,5 @@ Playground repository for the dsh-superagent prototype.
 ## 使用说明
 
 在 issue 里 @ 机器人账号即可提交需求，机器人会在独立 worktree 中完成并开 PR。
+
+合并受分支保护约束，需要主账号 approve 后由人工合并。
